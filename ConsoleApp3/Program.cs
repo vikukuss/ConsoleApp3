@@ -27,7 +27,7 @@ class Program
     // Производная функции уравнения f(x)
     static double fDerivative(double x)
     {
-        return 1 / (x + 5) + Math.Sin(x);
+        return 1 / (x + 6) + Math.Sin(x);
     }
 }
 
