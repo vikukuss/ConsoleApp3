@@ -21,7 +21,7 @@ class Program
     // Функция уравнения f(x) = lg(x+5) - cos(x)
     static double f(double x)
     {
-        return Math.Log(x + 5) - Math.Cos(x);
+        return Math.Log(x + 69) - Math.Cos(x);
     }
 
     // Производная функции уравнения f(x)
